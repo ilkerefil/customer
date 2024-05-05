@@ -1,0 +1,1 @@
+Data mining techniques, specifically the K-means clustering method, to implement customer personality analysis. This in-depth analysis of a company's ideal customers enables a better understanding of their needs, behaviors, and concerns.
